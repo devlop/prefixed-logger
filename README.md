@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://packagist.org/packages/devlop/prefixed-logger"><img src="https://img.shields.io/packagist/v/devlop/prefixed-logger" alt="Latest Stable Version"></a>
-    <a href="https://github.com/devlop-ab/prefixed-logger/blob/master/LICENSE.md"><img src="https://img.shields.io/packagist/l/devlop/prefixed-logger" alt="License"></a>
+    <a href="https://github.com/devlop/prefixed-logger/blob/master/LICENSE.md"><img src="https://img.shields.io/packagist/l/devlop/prefixed-logger" alt="License"></a>
 </p>
 
 # Prefixed Logger
